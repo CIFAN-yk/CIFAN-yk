@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DORAKIKA&layout=compact&hide_border=true&langs_count=10&theme=dark">
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=DORAKIKA&theme=dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DORAKIKA&layout=compact&hide_border=true&langs_count=10&theme=dark">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=DORAKIKA&theme=dark&hide_border=true" />
 </div>
 
